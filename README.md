@@ -121,7 +121,7 @@ Household/
 
 Clone the repository:
 
-``bash
+bash
 git clone https://github.com/tiwaridevvrat4-source/Household-electricity-consumption-analysis.git
 ### Navigate to the project directory:
 cd Household-electricity-consumption-analysis
