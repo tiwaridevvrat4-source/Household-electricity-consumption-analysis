@@ -2,6 +2,10 @@
 
 An Exploratory Data Analysis (EDA) project focused on understanding household electricity consumption patterns using Python, Pandas, Matplotlib, Seaborn, and Streamlit.
 
+## Live Dashboard
+
+[View Live Streamlit Dashboard](https://household-electricity-consumption-analysis-2.streamlit.app/)
+
 ## Project Overview
 
 This project analyzes minute-level household electricity consumption data to understand power usage patterns and relationships between different electrical variables.
